@@ -4,4 +4,4 @@
 
 ‣ 코드 수정 진행 중
 
-‣ 교재 [파이썬으로 데이터 주무르기](http://www.yes24.com/Product/Goods/57670268)을 참고했습니다.
+‣ 교재 [파이썬으로 데이터 주무르기](http://www.yes24.com/Product/Goods/57670268)를 참고했습니다.
